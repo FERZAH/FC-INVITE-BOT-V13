@@ -1,5 +1,9 @@
 # FC-INVITE-BOT-V13
 
+# NOT
+* Bot hem slash komut hemde normal komut ile çalışıyor.
+* İsterseniz `.` prefixi ile kullanın isterseniz `/` prefixi ile slash komut komut kullanın.
+
 # KURULUM
 * [Node.JS](https://nodejs.org/en/) Cihazınınızda Node kurulu olduğundan emin olun!
 * Yeşil Code butonuna basın ve Downland zip seçeneğine tıklayın indirme işlemini bekleyin.

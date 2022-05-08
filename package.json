@@ -1,0 +1,21 @@
+{
+  "name": "v13-basic-invite-bot",
+  "version": "1.0.0",
+  "description": "V13 Basit invite bot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "nodemon server.js"
+  },
+  "author": "F-C",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/rest": "^0.4.1",
+    "discord.js": "^13.6.0",
+    "fc_invite": "^1.0.2",
+    "moment": "^2.29.3",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^6.3.2",
+    "nodemon": "^2.0.16"
+  }
+}

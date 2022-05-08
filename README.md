@@ -13,7 +13,7 @@
 * Bottaki gerekli kurulumları yaptıktan sonra `.yardım` komutu ile önünüze çıkan yardım menüsünden komutlara ulaşabilirsiniz.
 
 # Sıkça Sorulan Sorular (SSS) / Alınan Hatalar
-* `Error [TOKEN_INVALID]: An invalid token was provided.` böyle bir hata ile karşılaşırsanız tokeniniz yanlıştır settings.js/bot.botToken kısmından botunuzun tokenini kontrol edin!
+* `Error [TOKEN_INVALID]: An invalid token was provided.` böyle bir hata ile karşılaşırsanız tokeniniz yanlıştır config.js/bot.botToken kısmından botunuzun tokenini kontrol edin!
 
 # İLETİŞİM
 * Botla ilgili herhangi bir hata veya soru için [Ferzah](https://discord.com/users/564900904713846785) veya [Cross](https://discord.com/users/641256228101554188)'a ulaşabilirsiniz.

@@ -21,4 +21,4 @@
 
 # İLETİŞİM
 * Botla ilgili herhangi bir hata veya soru için [Ferzah](https://discord.com/users/564900904713846785) veya [Cross](https://discord.com/users/641256228101554188)'a ulaşabilirsiniz.
-* Yardım almak için [Wext](discord.gg/1972) Sunucusunu ziyaret edebilirsiniz.
+* Yardım almak için [Wext](https://www.discord.gg/1972) Sunucusunu ziyaret edebilirsiniz.
